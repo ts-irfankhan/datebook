@@ -1,0 +1,48 @@
+[
+  {
+    "name": "formatTimestampString",
+    "filePath": "src/utils/time.js",
+    "lines": [
+      {
+        "lineNumber": 47,
+        "line": "/**"
+      },
+      {
+        "lineNumber": 48,
+        "line": " * Formats the given timestamp."
+      },
+      {
+        "lineNumber": 49,
+        "line": " *"
+      },
+      {
+        "lineNumber": 50,
+        "line": " * @param {String} time"
+      },
+      {
+        "lineNumber": 51,
+        "line": " * @param {String} format - momentjs format"
+      },
+      {
+        "lineNumber": 52,
+        "line": " * @returns {String}"
+      },
+      {
+        "lineNumber": 53,
+        "line": " */"
+      },
+      {
+        "lineNumber": 54,
+        "line": "export const formatTimestampString = (str, format) => {"
+      }
+    ],
+    "codeParams": [
+      "str",
+      "format"
+    ],
+    "docParams": [
+      "time",
+      "format"
+    ]
+  }
+]

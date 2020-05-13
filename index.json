@@ -1,0 +1,2750 @@
+[
+  {
+    "__docId__": 1,
+    "kind": "external",
+    "name": "Infinity",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Infinity",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 2,
+    "kind": "external",
+    "name": "NaN",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~NaN",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 3,
+    "kind": "external",
+    "name": "undefined",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~undefined",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 4,
+    "kind": "external",
+    "name": "null",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~null",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 5,
+    "kind": "external",
+    "name": "Object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 6,
+    "kind": "external",
+    "name": "object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 7,
+    "kind": "external",
+    "name": "Function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 8,
+    "kind": "external",
+    "name": "function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 9,
+    "kind": "external",
+    "name": "Boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 10,
+    "kind": "external",
+    "name": "boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 11,
+    "kind": "external",
+    "name": "Symbol",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Symbol",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 12,
+    "kind": "external",
+    "name": "Error",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Error",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 13,
+    "kind": "external",
+    "name": "EvalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/EvalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~EvalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 14,
+    "kind": "external",
+    "name": "InternalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/InternalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~InternalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 15,
+    "kind": "external",
+    "name": "RangeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RangeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 16,
+    "kind": "external",
+    "name": "ReferenceError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ReferenceError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 17,
+    "kind": "external",
+    "name": "SyntaxError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~SyntaxError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 18,
+    "kind": "external",
+    "name": "TypeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~TypeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 19,
+    "kind": "external",
+    "name": "URIError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/URIError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~URIError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 20,
+    "kind": "external",
+    "name": "Number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 21,
+    "kind": "external",
+    "name": "number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 22,
+    "kind": "external",
+    "name": "Date",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Date",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 23,
+    "kind": "external",
+    "name": "String",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~String",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 24,
+    "kind": "external",
+    "name": "string",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~string",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 25,
+    "kind": "external",
+    "name": "RegExp",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RegExp",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 26,
+    "kind": "external",
+    "name": "Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 27,
+    "kind": "external",
+    "name": "Int8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 28,
+    "kind": "external",
+    "name": "Uint8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 29,
+    "kind": "external",
+    "name": "Uint8ClampedArray",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8ClampedArray",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 30,
+    "kind": "external",
+    "name": "Int16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 31,
+    "kind": "external",
+    "name": "Uint16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 32,
+    "kind": "external",
+    "name": "Int32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 33,
+    "kind": "external",
+    "name": "Uint32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 34,
+    "kind": "external",
+    "name": "Float32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 35,
+    "kind": "external",
+    "name": "Float64Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float64Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float64Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 36,
+    "kind": "external",
+    "name": "Map",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Map",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 37,
+    "kind": "external",
+    "name": "Set",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Set",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 38,
+    "kind": "external",
+    "name": "WeakMap",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakMap",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 39,
+    "kind": "external",
+    "name": "WeakSet",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakSet",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 40,
+    "kind": "external",
+    "name": "ArrayBuffer",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ArrayBuffer",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 41,
+    "kind": "external",
+    "name": "DataView",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~DataView",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 42,
+    "kind": "external",
+    "name": "JSON",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~JSON",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 43,
+    "kind": "external",
+    "name": "Promise",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Promise",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 44,
+    "kind": "external",
+    "name": "Generator",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Generator",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 45,
+    "kind": "external",
+    "name": "GeneratorFunction",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~GeneratorFunction",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 46,
+    "kind": "external",
+    "name": "Reflect",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Reflect",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 47,
+    "kind": "external",
+    "name": "Proxy",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Proxy",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 48,
+    "kind": "file",
+    "name": "src/CalendarBase.js",
+    "content": "import { FORMAT } from './constants'\nimport { parseDate } from './utils/time'\n\n/**\n * Base calendar class. This class can be extended to add new calendar services.\n */\nclass CalendarBase {\n  /**\n   * Constructor.\n   * \n   * @param {Object} options\n   * @param {String} options.description - event description\n   * @param {String} options.title - event title\n   * @param {String} options.location - event location \n   * @param {String} options.start - event start time, in [ISO 8601](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/parse#Date_Time_String_Format) format\n   * @param {String} [options.end] - event end time, in [ISO 8601](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/parse#Date_Time_String_Format) format\n   * @param {Object} [options.recurrence]\n   * @param {String} [options.recurrence.frequency] - recurrence frequency (`DAILY`, `WEEKLY`, `MONTHLY`, `YEARLY`)\n   * @param {Number} [options.recurrence.interval] - time between recurrences\n   * @param {Number} [options.recurrence.count] - number of times event should repeat\n   * @param {String} [options.recurrence.end] - date when the last recurrence should occur\n   * @param {String} [options.recurrence.weekstart = 'SU'] - uppercase, first two letters of the day that the week starts on\n   * @param {String} [options.recurrence.weekdays] - comma-separated list of uppercase, first two letters of the days the event occurs on\n   * @param {String} [options.recurrence.monthdays] - comma-separated list of monthdays\tString of numbers\n   */\n  constructor (options) {\n    this.setText(options)\n    this.setTimestamps(options)\n  }\n  \n  /**\n   * Sets the description, title and location.\n   * \n   * @private\n   * @param {Object} options\n   * @param {String} options.description - event description\n   * @param {String} options.title - event title\n   * @param {String} options.location - event location \n   */\n  setText (options) {\n    this.description = options.description || ''\n    this.title = options.title || ''\n    this.location = options.location || ''\n  }\n  \n  /**\n   * Sets the time and recurrence parameters.\n   * \n   * @private\n   * @param {Object} options\n   * @param {String} options.start - event start time\n   * @param {String} [options.end] - event end time\n   * @param {Boolean} [options.allday = false] - whether this is an all-day event\n   * @param {Recurrence} [options.recurrence] - event recurrence\n   */\n  setTimestamps (options) {\n    this.allday = !options.end\n    \n    if (this.allday) {\n      // if allday is specified, make the end date exactly 1 day from the start date\n      this.end = parseDate(options.start)\n      this.end.setDate(this.end.getDate() + 1)\n    } else {\n      this.end = parseDate(options.end)\n    }\n    \n    this.start = parseDate(options.start)\n    this.recurrence = options.recurrence\n  }\n}\n\nexport default CalendarBase",
+    "static": true,
+    "longname": "/home/travis/build/jshor/datebook/src/CalendarBase.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 49,
+    "kind": "class",
+    "name": "CalendarBase",
+    "memberof": "src/CalendarBase.js",
+    "static": true,
+    "longname": "src/CalendarBase.js~CalendarBase",
+    "access": "public",
+    "export": true,
+    "importPath": "datebook/src/CalendarBase.js",
+    "importStyle": "CalendarBase",
+    "description": "Base calendar class. This class can be extended to add new calendar services.",
+    "lineNumber": 7,
+    "interface": false
+  },
+  {
+    "__docId__": 50,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "src/CalendarBase.js~CalendarBase",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/CalendarBase.js~CalendarBase#constructor",
+    "access": "public",
+    "description": "Constructor.",
+    "lineNumber": 26,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "options",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "options.description",
+        "description": "event description"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "options.title",
+        "description": "event title"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "options.location",
+        "description": "event location"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "options.start",
+        "description": "event start time, in [ISO 8601](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/parse#Date_Time_String_Format) format"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "options.end",
+        "description": "event end time, in [ISO 8601](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/parse#Date_Time_String_Format) format"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Object"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "options.recurrence",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "options.recurrence.frequency",
+        "description": "recurrence frequency (`DAILY`, `WEEKLY`, `MONTHLY`, `YEARLY`)"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "options.recurrence.interval",
+        "description": "time between recurrences"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "options.recurrence.count",
+        "description": "number of times event should repeat"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "options.recurrence.end",
+        "description": "date when the last recurrence should occur"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": true,
+        "defaultValue": " 'SU'",
+        "defaultRaw": " 'SU'",
+        "name": "options.recurrence.weekstart",
+        "description": "uppercase, first two letters of the day that the week starts on"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "options.recurrence.weekdays",
+        "description": "comma-separated list of uppercase, first two letters of the days the event occurs on"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "options.recurrence.monthdays",
+        "description": "comma-separated list of monthdays\tString of numbers"
+      }
+    ]
+  },
+  {
+    "__docId__": 51,
+    "kind": "method",
+    "name": "setText",
+    "memberof": "src/CalendarBase.js~CalendarBase",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/CalendarBase.js~CalendarBase#setText",
+    "access": "private",
+    "description": "Sets the description, title and location.",
+    "lineNumber": 40,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "options",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "options.description",
+        "description": "event description"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "options.title",
+        "description": "event title"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "options.location",
+        "description": "event location"
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 52,
+    "kind": "member",
+    "name": "description",
+    "memberof": "src/CalendarBase.js~CalendarBase",
+    "static": false,
+    "longname": "src/CalendarBase.js~CalendarBase#description",
+    "access": "public",
+    "description": null,
+    "lineNumber": 41,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 53,
+    "kind": "member",
+    "name": "title",
+    "memberof": "src/CalendarBase.js~CalendarBase",
+    "static": false,
+    "longname": "src/CalendarBase.js~CalendarBase#title",
+    "access": "public",
+    "description": null,
+    "lineNumber": 42,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 54,
+    "kind": "member",
+    "name": "location",
+    "memberof": "src/CalendarBase.js~CalendarBase",
+    "static": false,
+    "longname": "src/CalendarBase.js~CalendarBase#location",
+    "access": "public",
+    "description": null,
+    "lineNumber": 43,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 55,
+    "kind": "method",
+    "name": "setTimestamps",
+    "memberof": "src/CalendarBase.js~CalendarBase",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/CalendarBase.js~CalendarBase#setTimestamps",
+    "access": "private",
+    "description": "Sets the time and recurrence parameters.",
+    "lineNumber": 56,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "options",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "options.start",
+        "description": "event start time"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "options.end",
+        "description": "event end time"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Boolean"
+        ],
+        "spread": false,
+        "optional": true,
+        "defaultValue": " false",
+        "defaultRaw": false,
+        "name": "options.allday",
+        "description": "whether this is an all-day event"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Recurrence"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "options.recurrence",
+        "description": "event recurrence"
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 56,
+    "kind": "member",
+    "name": "allday",
+    "memberof": "src/CalendarBase.js~CalendarBase",
+    "static": false,
+    "longname": "src/CalendarBase.js~CalendarBase#allday",
+    "access": "public",
+    "description": null,
+    "lineNumber": 57,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 57,
+    "kind": "member",
+    "name": "end",
+    "memberof": "src/CalendarBase.js~CalendarBase",
+    "static": false,
+    "longname": "src/CalendarBase.js~CalendarBase#end",
+    "access": "public",
+    "description": null,
+    "lineNumber": 61,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 59,
+    "kind": "member",
+    "name": "start",
+    "memberof": "src/CalendarBase.js~CalendarBase",
+    "static": false,
+    "longname": "src/CalendarBase.js~CalendarBase#start",
+    "access": "public",
+    "description": null,
+    "lineNumber": 67,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 60,
+    "kind": "member",
+    "name": "recurrence",
+    "memberof": "src/CalendarBase.js~CalendarBase",
+    "static": false,
+    "longname": "src/CalendarBase.js~CalendarBase#recurrence",
+    "access": "public",
+    "description": null,
+    "lineNumber": 68,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 61,
+    "kind": "file",
+    "name": "src/GoogleCalendar.js",
+    "content": "import CalendarBase from './CalendarBase'\nimport { FORMAT, URL } from './constants'\nimport { formatTimestampString } from './utils/time'\nimport { toQueryString } from './utils/data'\nimport { getRrule } from './utils/ics'\n\n/**\n * Generates a Google Calendar url.\n * \n * @example\n *  import { GoogleCalendar } from 'datebook'\n * \n *  const google = new GoogleCalendar({\n *    title: 'Happy Hour',\n *    location: 'The Bar, New York, NY',\n *    description: 'Let\\'s blow off some steam from our weekly deployments to enjoy a tall cold one!',\n *    start: '20190704T190000',\n *    end: '20190704T210000',\n *    recurrence: {\n *      frequency: 'WEEKLY'\n *      interval: 2\n *    }\n *  })\n * \n *  google.render() // https://calendar.google.com/calendar/render?action=TEMPLATE&text=Happy%20Hour&details=Let%27s%20blow%20off%20some%20steam%20from%20our%20weekly%20deployments%20to%20enjoy%20a%20tall%20cold%20one!&location=The%20Bar%2C%20New%20York%2C%20NY&dates=20190704T190000%2F20190704T210000&recur=RRULE%3AFREQ%3DWEEKLY%3BINTERVAL%3D2%3BUNTIL%3D20190610T123926\n * \n */\nexport default class GoogleCalendar extends CalendarBase {\n  /**\n   * @inheritDoc\n   */\n  constructor (options) {\n    super(options)\n  }\n  \n  /**\n   * Generates the Google Calendar url.\n   * \n   * @returns {String}\n   */\n  render () {\n    let timestampFormat = 'YYYYMMDD'\n\n    if (!this.allday) {\n      timestampFormat += 'Thhmmss'\n    }\n\n    const params = {\n      action: 'TEMPLATE',\n      text: this.title,\n      details: this.description,\n      location: this.location,\n      dates: [\n        formatTimestampString(this.start, timestampFormat),\n        formatTimestampString(this.end, timestampFormat)\n      ].join('/')\n    }\n    \n    if (this.recurrence) {\n      params.recur = `RRULE:${getRrule(this.recurrence)}`\n    }\n    \n    const baseUrl = URL.GOOGLE\n    const queryString = toQueryString(params)\n    \n    return `${baseUrl}?${queryString}`\n  }\n}",
+    "static": true,
+    "longname": "/home/travis/build/jshor/datebook/src/GoogleCalendar.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 62,
+    "kind": "class",
+    "name": "GoogleCalendar",
+    "memberof": "src/GoogleCalendar.js",
+    "static": true,
+    "longname": "src/GoogleCalendar.js~GoogleCalendar",
+    "access": "public",
+    "export": true,
+    "importPath": "datebook/src/GoogleCalendar.js",
+    "importStyle": "GoogleCalendar",
+    "description": "Generates a Google Calendar url.",
+    "examples": [
+      " import { GoogleCalendar } from 'datebook'\n\n const google = new GoogleCalendar({\n   title: 'Happy Hour',\n   location: 'The Bar, New York, NY',\n   description: 'Let\\'s blow off some steam from our weekly deployments to enjoy a tall cold one!',\n   start: '20190704T190000',\n   end: '20190704T210000',\n   recurrence: {\n     frequency: 'WEEKLY'\n     interval: 2\n   }\n })\n\n google.render() // https://calendar.google.com/calendar/render?action=TEMPLATE&text=Happy%20Hour&details=Let%27s%20blow%20off%20some%20steam%20from%20our%20weekly%20deployments%20to%20enjoy%20a%20tall%20cold%20one!&location=The%20Bar%2C%20New%20York%2C%20NY&dates=20190704T190000%2F20190704T210000&recur=RRULE%3AFREQ%3DWEEKLY%3BINTERVAL%3D2%3BUNTIL%3D20190610T123926"
+    ],
+    "lineNumber": 28,
+    "interface": false,
+    "extends": [
+      "src/CalendarBase.js~CalendarBase"
+    ]
+  },
+  {
+    "__docId__": 63,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "src/GoogleCalendar.js~GoogleCalendar",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/GoogleCalendar.js~GoogleCalendar#constructor",
+    "access": "public",
+    "description": "",
+    "lineNumber": 32,
+    "unknown": [
+      {
+        "tagName": "@inheritDoc",
+        "tagValue": ""
+      }
+    ]
+  },
+  {
+    "__docId__": 64,
+    "kind": "method",
+    "name": "render",
+    "memberof": "src/GoogleCalendar.js~GoogleCalendar",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/GoogleCalendar.js~GoogleCalendar#render",
+    "access": "public",
+    "description": "Generates the Google Calendar url.",
+    "lineNumber": 41,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{String}"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "String"
+      ],
+      "spread": false,
+      "description": ""
+    },
+    "params": []
+  },
+  {
+    "__docId__": 65,
+    "kind": "file",
+    "name": "src/ICalendar.js",
+    "content": "import CalendarBase from './CalendarBase'\nimport { formatText, getUid, getProdId, getRrule, download } from './utils/ics'\nimport { getTimeCreated, formatTimestampString } from './utils/time'\n\n/**\n * Generates a downloadable ICS file.\n * \n * @example\n * \n *  import { ICalendar } from 'datebook'\n *\n *  const icalendar = new ICalendar({\n *    title: 'Happy Hour',\n *    location: 'The Bar, New York, NY',\n *    description: 'Let\\'s blow off some steam from our weekly deployments to enjoy a tall cold one!',\n *    start: '20190704T190000',\n *    end: '20190704T210000',\n *    recurrence: {\n *      frequency: 'WEEKLY'\n *      interval: 2\n *    }\n *  })\n * \n *  icalendar.render() // renders the following:\n *  // BEGIN:VCALENDAR\n *  // VERSION:2.0\n *  // BEGIN:VEVENT\n *  // CLASS:PUBLIC\n *  // DESCRIPTION:Let's blow off some steam from our weekly deployments to enjoy\n *  // DTSTART:20190704T190000\n *  // DTEND:20190704T210000\n *  // LOCATION:The Bar, New York, NY\n *  // SUMMARY:Happy Hour\n *  // TRANSP:TRANSPARENT\n *  // RRULE:FREQ=WEEKLY;INTERVAL=2;UNTIL=20190610T123608\n *  // END:VEVENT\n *  // END:VCALENDAR\n *  // UID:7ci7n1e1i6a\n *  // DTSTAMP:20190610T123608\n *  // PRODID:mydomain.com\n * \n *  icalendar.download() // downloads the .ics file as <title>.ics\n * \n */\nexport default class ICalendar extends CalendarBase {\n  /**\n   * @inheritDoc\n   */\n  constructor (options) {\n    super(options)\n  }\n  \n  /**\n   * Downloads the rendered iCalendar.\n   * \n   * @note Only works in browsers.\n   */\n  download () {\n    download(this.title, this.render())\n  }\n  \n  /**\n   * Generates the iCalendar data.\n   * \n   * @returns {String}\n   */\n  render () {\n    const description = formatText(this.description)\n    const location = formatText(this.location)\n    const summary = formatText(this.title)\n    const event = [\n      'CLASS:PUBLIC',\n      `DESCRIPTION:${description}`,\n      `DTSTART:${formatTimestampString(this.start, 'YYYYMMDDThhmmss')}`,\n      `DTEND:${formatTimestampString(this.end, 'YYYYMMDDThhmmss')}`,\n      `LOCATION:${location}`,\n      `SUMMARY:${summary}`,\n      'TRANSP:TRANSPARENT'\n    ]\n    \n    if (this.recurrence) {\n      event.push(`RRULE:${getRrule(this.recurrence)}`)\n    }\n    \n    const uid = getUid()\n    const timeCreated = getTimeCreated()\n    const host = getProdId()\n    const calendar = [\n      'BEGIN:VCALENDAR',\n      'VERSION:2.0',\n      'BEGIN:VEVENT',\n      event.join('\\n'),\n      'END:VEVENT',\n      'END:VCALENDAR',\n      `UID:${uid}`,\n      `DTSTAMP:${timeCreated}`,\n      `PRODID:${host}`\n    ]\n    \n    return calendar.join('\\n')\n  }\n}",
+    "static": true,
+    "longname": "/home/travis/build/jshor/datebook/src/ICalendar.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 66,
+    "kind": "class",
+    "name": "ICalendar",
+    "memberof": "src/ICalendar.js",
+    "static": true,
+    "longname": "src/ICalendar.js~ICalendar",
+    "access": "public",
+    "export": true,
+    "importPath": "datebook/src/ICalendar.js",
+    "importStyle": "ICalendar",
+    "description": "Generates a downloadable ICS file.",
+    "examples": [
+      "\n import { ICalendar } from 'datebook'\n\n const icalendar = new ICalendar({\n   title: 'Happy Hour',\n   location: 'The Bar, New York, NY',\n   description: 'Let\\'s blow off some steam from our weekly deployments to enjoy a tall cold one!',\n   start: '20190704T190000',\n   end: '20190704T210000',\n   recurrence: {\n     frequency: 'WEEKLY'\n     interval: 2\n   }\n })\n\n icalendar.render() // renders the following:\n // BEGIN:VCALENDAR\n // VERSION:2.0\n // BEGIN:VEVENT\n // CLASS:PUBLIC\n // DESCRIPTION:Let's blow off some steam from our weekly deployments to enjoy\n // DTSTART:20190704T190000\n // DTEND:20190704T210000\n // LOCATION:The Bar, New York, NY\n // SUMMARY:Happy Hour\n // TRANSP:TRANSPARENT\n // RRULE:FREQ=WEEKLY;INTERVAL=2;UNTIL=20190610T123608\n // END:VEVENT\n // END:VCALENDAR\n // UID:7ci7n1e1i6a\n // DTSTAMP:20190610T123608\n // PRODID:mydomain.com\n\n icalendar.download() // downloads the .ics file as <title>.ics"
+    ],
+    "lineNumber": 45,
+    "interface": false,
+    "extends": [
+      "src/CalendarBase.js~CalendarBase"
+    ]
+  },
+  {
+    "__docId__": 67,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "src/ICalendar.js~ICalendar",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/ICalendar.js~ICalendar#constructor",
+    "access": "public",
+    "description": "",
+    "lineNumber": 49,
+    "unknown": [
+      {
+        "tagName": "@inheritDoc",
+        "tagValue": ""
+      }
+    ]
+  },
+  {
+    "__docId__": 68,
+    "kind": "method",
+    "name": "download",
+    "memberof": "src/ICalendar.js~ICalendar",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/ICalendar.js~ICalendar#download",
+    "access": "public",
+    "description": "Downloads the rendered iCalendar.",
+    "lineNumber": 58,
+    "unknown": [
+      {
+        "tagName": "@note",
+        "tagValue": "Only works in browsers."
+      }
+    ],
+    "params": [],
+    "return": null
+  },
+  {
+    "__docId__": 69,
+    "kind": "method",
+    "name": "render",
+    "memberof": "src/ICalendar.js~ICalendar",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/ICalendar.js~ICalendar#render",
+    "access": "public",
+    "description": "Generates the iCalendar data.",
+    "lineNumber": 67,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{String}"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "String"
+      ],
+      "spread": false,
+      "description": ""
+    },
+    "params": []
+  },
+  {
+    "__docId__": 70,
+    "kind": "file",
+    "name": "src/OutlookCalendar.js",
+    "content": "import CalendarBase from './CalendarBase'\nimport { URL } from './constants'\nimport { toQueryString } from './utils/data'\nimport { formatTimestampString } from './utils/time'\n\n/**\n * Generates a an Outlook Calendar url.\n * Note that Outlook Calendar's query string params do not support recurrence.\n * \n * @example\n *  import { OutlookCalendar } from 'datebook'\n * \n *  const outlook = new OutlookCalendar({\n *    title: 'Happy Hour',\n *    location: 'The Bar, New York, NY',\n *    description: 'Let\\'s blow off some steam from our weekly deployments to enjoy a tall cold one!',\n *    start: '20190704T190000',\n *    end: '20190704T210000'\n *  })\n * \n *  outlook.render() // https://calendar.google.com/calendar/render?action=TEMPLATE&text=Happy%20Hour&details=Let%27s%20blow%20off%20some%20steam%20from%20our%20weekly%20deployments%20to%20enjoy%20a%20tall%20cold%20one!&location=The%20Bar%2C%20New%20York%2C%20NY&dates=20190704T190000%2F20190704T210000&recur=RRULE%3AFREQ%3DWEEKLY%3BINTERVAL%3D2%3BUNTIL%3D20190610T123926\n *\n */\nexport default class OutlookCalendar extends CalendarBase {\n  /**\n   * Constructor.\n   * \n   * @param {Object} options\n   * @param {String} options.description - event description\n   * @param {String} options.title - event title\n   * @param {String} options.location - event location \n   * @param {String} options.start - event start time\n   * @param {String} [options.end] - event end time\n   */\n  constructor (options) {\n    super(options)\n  }\n  \n  /**\n   * Generates the Outlook url.\n   * \n   * @returns {String}\n   */\n  render () {\n    let timestampFormat = 'YYYY-MM-DD'\n\n    if (!this.allday) {\n      timestampFormat += 'Thh:mm:ss'\n    }\n\n    const params = {\n      path: '/calendar/action/compose',\n      rru: 'addevent',\n      startdt: formatTimestampString(this.start, timestampFormat),\n      enddt: formatTimestampString(this.end, timestampFormat),\n      subject: this.title,\n      body: this.description,\n      location: this.location,\n      allday: this.allday\n    }\n    \n    const baseUrl = URL.OUTLOOK\n    const queryString = toQueryString(params)\n    \n    return `${baseUrl}?${queryString}`\n  }\n}",
+    "static": true,
+    "longname": "/home/travis/build/jshor/datebook/src/OutlookCalendar.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 71,
+    "kind": "class",
+    "name": "OutlookCalendar",
+    "memberof": "src/OutlookCalendar.js",
+    "static": true,
+    "longname": "src/OutlookCalendar.js~OutlookCalendar",
+    "access": "public",
+    "export": true,
+    "importPath": "datebook/src/OutlookCalendar.js",
+    "importStyle": "OutlookCalendar",
+    "description": "Generates a an Outlook Calendar url.\nNote that Outlook Calendar's query string params do not support recurrence.",
+    "examples": [
+      " import { OutlookCalendar } from 'datebook'\n\n const outlook = new OutlookCalendar({\n   title: 'Happy Hour',\n   location: 'The Bar, New York, NY',\n   description: 'Let\\'s blow off some steam from our weekly deployments to enjoy a tall cold one!',\n   start: '20190704T190000',\n   end: '20190704T210000'\n })\n\n outlook.render() // https://calendar.google.com/calendar/render?action=TEMPLATE&text=Happy%20Hour&details=Let%27s%20blow%20off%20some%20steam%20from%20our%20weekly%20deployments%20to%20enjoy%20a%20tall%20cold%20one!&location=The%20Bar%2C%20New%20York%2C%20NY&dates=20190704T190000%2F20190704T210000&recur=RRULE%3AFREQ%3DWEEKLY%3BINTERVAL%3D2%3BUNTIL%3D20190610T123926"
+    ],
+    "lineNumber": 24,
+    "interface": false,
+    "extends": [
+      "src/CalendarBase.js~CalendarBase"
+    ]
+  },
+  {
+    "__docId__": 72,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "src/OutlookCalendar.js~OutlookCalendar",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/OutlookCalendar.js~OutlookCalendar#constructor",
+    "access": "public",
+    "description": "Constructor.",
+    "lineNumber": 35,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "options",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "options.description",
+        "description": "event description"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "options.title",
+        "description": "event title"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "options.location",
+        "description": "event location"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "options.start",
+        "description": "event start time"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "options.end",
+        "description": "event end time"
+      }
+    ]
+  },
+  {
+    "__docId__": 73,
+    "kind": "method",
+    "name": "render",
+    "memberof": "src/OutlookCalendar.js~OutlookCalendar",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/OutlookCalendar.js~OutlookCalendar#render",
+    "access": "public",
+    "description": "Generates the Outlook url.",
+    "lineNumber": 44,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{String}"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "String"
+      ],
+      "spread": false,
+      "description": ""
+    },
+    "params": []
+  },
+  {
+    "__docId__": 74,
+    "kind": "file",
+    "name": "src/YahooCalendar.js",
+    "content": "import CalendarBase from './CalendarBase'\nimport { RECURRENCE, URL } from './constants'\nimport { formatTimestampString, addLeadingZero } from './utils/time'\nimport { toQueryString } from './utils/data'\n\n/**\n * Generates a Yahoo! Calendar url.\n * Note that Yahoo! Calendar's support for recurrence is limited to only the interval and frequency.\n * \n * @example\n *  import { YahooCalendar } from 'datebook'\n * \n *  const yahoo = new YahooCalendar({\n *    title: 'Happy Hour',\n *    location: 'The Bar, New York, NY',\n *    description: 'Let\\'s blow off some steam from our weekly deployments to enjoy a tall cold one!',\n *    start: '20190704T190000',\n *    end: '20190704T210000',\n *    recurrence: {\n *      frequency: 'WEEKLY'\n *      interval: 2\n *    }\n *  })\n * \n *  yahoo.render() // https://calendar.yahoo.com/?v=60&title=Happy%20Hour&st=20190704T190000&desc=Let%27s%20blow%20off%20some%20steam%20from%20our%20weekly%20deployments%20to%20enjoy%20a%20tall%20cold%20one!&in_loc=The%20Bar%2C%20New%20York%2C%20NY&RPAT=02Wk&REND=20190610T123112&dur=0200\n *\n */\nexport default class YahooCalendar extends CalendarBase {\n  /**\n   * Constructor.\n   * \n   * @param {Object} options\n   * @param {String} options.description - event description\n   * @param {String} options.title - event title\n   * @param {String} options.location - event location \n   * @param {String} options.start - event start time\n   * @param {String} [options.end] - event end time\n   * @param {Object} [options.recurrence]\n   * @param {String} [options.recurrence.frequency] - recurrence frequency (`DAILY`, `WEEKLY`, `MONTHLY`, `YEARLY`)\n   * @param {Number} [options.recurrence.interval] - time between recurrences\n   * @param {Number} [options.recurrence.count] - number of times event should repeat\n   * @param {String} [options.recurrence.end] - date when the last recurrence should occur\n   * @param {String} [options.recurrence.weekstart = 'SU'] - uppercase, first two letters of the day that the week starts on\n   * @param {String} [options.recurrence.weekdays] - comma-separated list of uppercase, first two letters of the days the event occurs on\n   * @param {String} [options.recurrence.monthdays] - comma-separated list of monthdays\tString of numbers\n   */\n  constructor (options) {\n    super(options)\n  }\n\n  /**\n   * Converts the capitalized two-letter day abbreviation to ProperCase.\n   *\n   * @param {String} day\n   * @returns {String}\n   */\n  formatDay (day) {\n    const first = day.charAt(0)\n    const last = day.charAt(1).toLowerCase()\n\n    return `${first}${last}`\n  }\n\n  /**\n   * Converts the RFC 5545 FREQ param to to Yahoo! frequency format.\n   *\n   * @param {Object} recurrence\n   * @param {String} [recurrence.frequency] -\n   * @param {String} [recurrence.weekdays] -\n   * @returns {String}\n   */\n  getFrequency ({ frequency, weekdays }) {\n    const { FREQUENCY } = RECURRENCE\n\n    if (weekdays) {\n      return weekdays\n        .split(',')\n        .map(this.formatDay)\n        .join('')\n    }\n\n    switch (frequency) {\n      case FREQUENCY.DAILY:\n        return 'Dy'\n      case FREQUENCY.MONTHLY:\n        return 'Mh'\n      case FREQUENCY.YEARLY:\n        return 'Yr'\n      default:\n        return 'Wk'\n    }\n  }\n\n  /**\n   * Converts the RFC 5545 to Yahoo! recurrence format.\n   *\n   * @param {Object} recurrence\n   * @param {String} [recurrence.frequency] -\n   * @param {String} [recurrence.weekdays] -\n   * @returns {String}\n   */\n  getRecurrence (recurrence) {\n    const frequency = this.getFrequency(recurrence)\n    const { interval } = recurrence\n\n    return `${addLeadingZero(interval)}${frequency}`\n  }\n\n  /**\n   * Returns the duration between two given dates in hhmm format.\n   *\n   * @param {String} start\n   * @param {String} end\n   * @returns {String}\n   */\n  getDuration (start, end) {\n    const seconds = Math.floor((end - start) / 1000)\n    const hours = Math.floor(seconds / 3600)\n    const mins = ((seconds / 3600) % 1) * 60\n  \n    return `${addLeadingZero(hours)}${addLeadingZero(mins)}`\n  }\n\n  /**\n   * Returns the number of hours between two given dates.\n   * \n   * @param {String} start\n   * @param {String} end\n   * @returns {Number}\n   */\n  getHoursDuration (start, end) {\n    const seconds = Math.floor((end - start) / 1000)\n    \n    return Math.floor(seconds / 3600)\n  }\n\n  /**\n   * Generates the Yahoo! Calendar data.\n   *\n   * @returns {String}\n   */\n  render () {\n    const params = {\n      v: 60, // version number; must be 60\n      title: this.title,\n      desc: this.description,\n      in_loc: this.location\n    }\n\n    if (this.allday) {\n      params.dur = 'allday'\n      params.st = formatTimestampString(this.start, 'YYYYMMDD')\n    } else {\n      params.st = formatTimestampString(this.start, 'YYYYMMDDThhmmss')\n\n      if (this.getHoursDuration(this.start, this.end) > 99) {\n        // Yahoo only supports up to 99 hours, so we are forced to specify the end time instead of the duration\n        params.et = formatTimestampString(this.end, 'YYYYMMDDThhmmss')\n      } else {\n        // we prefer specifying duration in lieu of end time, because apparently Yahoo's end time is buggy w.r.t. timezones\n        params.dur = this.getDuration(this.start, this.end)\n      }\n    }\n\n    if (this.recurrence) {\n      params.RPAT = this.getRecurrence(this.recurrence)\n\n      if (this.recurrence.end) {\n        params.REND = formatTimestampString(this.recurrence.end, 'YYYYMMDD')\n      } else {\n        params.REND = formatTimestampString(this.end, 'YYYYMMDD')\n      }\n    }\n\n    const baseUrl = URL.YAHOO\n    const queryString = toQueryString(params)\n\n    return `${baseUrl}?${queryString}`\n  }\n}\n",
+    "static": true,
+    "longname": "/home/travis/build/jshor/datebook/src/YahooCalendar.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 75,
+    "kind": "class",
+    "name": "YahooCalendar",
+    "memberof": "src/YahooCalendar.js",
+    "static": true,
+    "longname": "src/YahooCalendar.js~YahooCalendar",
+    "access": "public",
+    "export": true,
+    "importPath": "datebook/src/YahooCalendar.js",
+    "importStyle": "YahooCalendar",
+    "description": "Generates a Yahoo! Calendar url.\nNote that Yahoo! Calendar's support for recurrence is limited to only the interval and frequency.",
+    "examples": [
+      " import { YahooCalendar } from 'datebook'\n\n const yahoo = new YahooCalendar({\n   title: 'Happy Hour',\n   location: 'The Bar, New York, NY',\n   description: 'Let\\'s blow off some steam from our weekly deployments to enjoy a tall cold one!',\n   start: '20190704T190000',\n   end: '20190704T210000',\n   recurrence: {\n     frequency: 'WEEKLY'\n     interval: 2\n   }\n })\n\n yahoo.render() // https://calendar.yahoo.com/?v=60&title=Happy%20Hour&st=20190704T190000&desc=Let%27s%20blow%20off%20some%20steam%20from%20our%20weekly%20deployments%20to%20enjoy%20a%20tall%20cold%20one!&in_loc=The%20Bar%2C%20New%20York%2C%20NY&RPAT=02Wk&REND=20190610T123112&dur=0200"
+    ],
+    "lineNumber": 28,
+    "interface": false,
+    "extends": [
+      "src/CalendarBase.js~CalendarBase"
+    ]
+  },
+  {
+    "__docId__": 76,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "src/YahooCalendar.js~YahooCalendar",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/YahooCalendar.js~YahooCalendar#constructor",
+    "access": "public",
+    "description": "Constructor.",
+    "lineNumber": 47,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "options",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "options.description",
+        "description": "event description"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "options.title",
+        "description": "event title"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "options.location",
+        "description": "event location"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "options.start",
+        "description": "event start time"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "options.end",
+        "description": "event end time"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Object"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "options.recurrence",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "options.recurrence.frequency",
+        "description": "recurrence frequency (`DAILY`, `WEEKLY`, `MONTHLY`, `YEARLY`)"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "options.recurrence.interval",
+        "description": "time between recurrences"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "options.recurrence.count",
+        "description": "number of times event should repeat"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "options.recurrence.end",
+        "description": "date when the last recurrence should occur"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": true,
+        "defaultValue": " 'SU'",
+        "defaultRaw": " 'SU'",
+        "name": "options.recurrence.weekstart",
+        "description": "uppercase, first two letters of the day that the week starts on"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "options.recurrence.weekdays",
+        "description": "comma-separated list of uppercase, first two letters of the days the event occurs on"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "options.recurrence.monthdays",
+        "description": "comma-separated list of monthdays\tString of numbers"
+      }
+    ]
+  },
+  {
+    "__docId__": 77,
+    "kind": "method",
+    "name": "formatDay",
+    "memberof": "src/YahooCalendar.js~YahooCalendar",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/YahooCalendar.js~YahooCalendar#formatDay",
+    "access": "public",
+    "description": "Converts the capitalized two-letter day abbreviation to ProperCase.",
+    "lineNumber": 57,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{String}"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "day",
+        "description": ""
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "String"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 78,
+    "kind": "method",
+    "name": "getFrequency",
+    "memberof": "src/YahooCalendar.js~YahooCalendar",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/YahooCalendar.js~YahooCalendar#getFrequency",
+    "access": "public",
+    "description": "Converts the RFC 5545 FREQ param to to Yahoo! frequency format.",
+    "lineNumber": 72,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{String}"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "recurrence",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "recurrence.frequency",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "recurrence.weekdays",
+        "description": ""
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "String"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 79,
+    "kind": "method",
+    "name": "getRecurrence",
+    "memberof": "src/YahooCalendar.js~YahooCalendar",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/YahooCalendar.js~YahooCalendar#getRecurrence",
+    "access": "public",
+    "description": "Converts the RFC 5545 to Yahoo! recurrence format.",
+    "lineNumber": 102,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{String}"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "recurrence",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "recurrence.frequency",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "recurrence.weekdays",
+        "description": ""
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "String"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 80,
+    "kind": "method",
+    "name": "getDuration",
+    "memberof": "src/YahooCalendar.js~YahooCalendar",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/YahooCalendar.js~YahooCalendar#getDuration",
+    "access": "public",
+    "description": "Returns the duration between two given dates in hhmm format.",
+    "lineNumber": 116,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{String}"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "start",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "end",
+        "description": ""
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "String"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 81,
+    "kind": "method",
+    "name": "getHoursDuration",
+    "memberof": "src/YahooCalendar.js~YahooCalendar",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/YahooCalendar.js~YahooCalendar#getHoursDuration",
+    "access": "public",
+    "description": "Returns the number of hours between two given dates.",
+    "lineNumber": 131,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{Number}"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "start",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "end",
+        "description": ""
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Number"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 82,
+    "kind": "method",
+    "name": "render",
+    "memberof": "src/YahooCalendar.js~YahooCalendar",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/YahooCalendar.js~YahooCalendar#render",
+    "access": "public",
+    "description": "Generates the Yahoo! Calendar data.",
+    "lineNumber": 142,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{String}"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "String"
+      ],
+      "spread": false,
+      "description": ""
+    },
+    "params": []
+  },
+  {
+    "__docId__": 83,
+    "kind": "file",
+    "name": "src/constants.js",
+    "content": "export const RECURRENCE = {\n  FREQUENCY: {\n    DAILY: 'DAILY',\n    WEEKLY: 'WEEKLY',\n    MONTHLY: 'MONTHLY',\n    YEARLY: 'YEARLY'\n  }\n}\n\nexport const FORMAT = {\n  DATE: 'YYYYMMDD',\n  TIME: 'hhmmss'\n}\n\nexport const URL = {\n  YAHOO: 'https://calendar.yahoo.com/',\n  GOOGLE: 'https://calendar.google.com/calendar/render',\n  OUTLOOK: 'https://outlook.live.com/calendar/0/deeplink/compose'\n}\n",
+    "static": true,
+    "longname": "/home/travis/build/jshor/datebook/src/constants.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 84,
+    "kind": "variable",
+    "name": "RECURRENCE",
+    "memberof": "src/constants.js",
+    "static": true,
+    "longname": "src/constants.js~RECURRENCE",
+    "access": "public",
+    "export": true,
+    "importPath": "datebook/src/constants.js",
+    "importStyle": "{RECURRENCE}",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"FREQUENCY\": *}"
+      ]
+    }
+  },
+  {
+    "__docId__": 85,
+    "kind": "variable",
+    "name": "FORMAT",
+    "memberof": "src/constants.js",
+    "static": true,
+    "longname": "src/constants.js~FORMAT",
+    "access": "public",
+    "export": true,
+    "importPath": "datebook/src/constants.js",
+    "importStyle": "{FORMAT}",
+    "description": null,
+    "lineNumber": 10,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"DATE\": string, \"TIME\": string}"
+      ]
+    }
+  },
+  {
+    "__docId__": 86,
+    "kind": "variable",
+    "name": "URL",
+    "memberof": "src/constants.js",
+    "static": true,
+    "longname": "src/constants.js~URL",
+    "access": "public",
+    "export": true,
+    "importPath": "datebook/src/constants.js",
+    "importStyle": "{URL}",
+    "description": null,
+    "lineNumber": 15,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"YAHOO\": string, \"GOOGLE\": string, \"OUTLOOK\": string}"
+      ]
+    }
+  },
+  {
+    "__docId__": 87,
+    "kind": "file",
+    "name": "src/index.js",
+    "content": "export { default as CalendarBase } from './CalendarBase'\nexport { default as GoogleCalendar } from './GoogleCalendar'\nexport { default as YahooCalendar } from './YahooCalendar'\nexport { default as OutlookCalendar } from './OutlookCalendar'\nexport { default as ICalendar } from './ICalendar'\n",
+    "static": true,
+    "longname": "/home/travis/build/jshor/datebook/src/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 88,
+    "kind": "file",
+    "name": "src/utils/calendars.js",
+    "content": "import GoogleCalendar from '../GoogleCalendar'\nimport YahooCalendar from '../YahooCalendar'\nimport ICalendar from '../ICalendar'\nimport OutlookCalendar from '../OutlookCalendar'\n\nexport default class Calendars {\n  static getGoogleCalendarUrl (options) {\n    return (new GoogleCalendar(options)).render()\n  }\n  \n  static getYahooCalendarUrl (options) {\n    return (new YahooCalendar(options)).render()\n  }\n\n  static getMicrosoftCalendarUrl (options) {\n    return (new OutlookCalendar(options)).render()\n  }\n  \n  static downloadIcs (options) {\n    return (new ICalendar(options)).download()\n  }\n}",
+    "static": true,
+    "longname": "/home/travis/build/jshor/datebook/src/utils/calendars.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 89,
+    "kind": "class",
+    "name": "Calendars",
+    "memberof": "src/utils/calendars.js",
+    "static": true,
+    "longname": "src/utils/calendars.js~Calendars",
+    "access": "public",
+    "export": true,
+    "importPath": "datebook/src/utils/calendars.js",
+    "importStyle": "Calendars",
+    "description": null,
+    "lineNumber": 6,
+    "undocument": true,
+    "interface": false
+  },
+  {
+    "__docId__": 90,
+    "kind": "method",
+    "name": "getGoogleCalendarUrl",
+    "memberof": "src/utils/calendars.js~Calendars",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/utils/calendars.js~Calendars.getGoogleCalendarUrl",
+    "access": "public",
+    "description": null,
+    "lineNumber": 7,
+    "undocument": true,
+    "params": [
+      {
+        "name": "options",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 91,
+    "kind": "method",
+    "name": "getYahooCalendarUrl",
+    "memberof": "src/utils/calendars.js~Calendars",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/utils/calendars.js~Calendars.getYahooCalendarUrl",
+    "access": "public",
+    "description": null,
+    "lineNumber": 11,
+    "undocument": true,
+    "params": [
+      {
+        "name": "options",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 92,
+    "kind": "method",
+    "name": "getMicrosoftCalendarUrl",
+    "memberof": "src/utils/calendars.js~Calendars",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/utils/calendars.js~Calendars.getMicrosoftCalendarUrl",
+    "access": "public",
+    "description": null,
+    "lineNumber": 15,
+    "undocument": true,
+    "params": [
+      {
+        "name": "options",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 93,
+    "kind": "method",
+    "name": "downloadIcs",
+    "memberof": "src/utils/calendars.js~Calendars",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/utils/calendars.js~Calendars.downloadIcs",
+    "access": "public",
+    "description": null,
+    "lineNumber": 19,
+    "undocument": true,
+    "params": [
+      {
+        "name": "options",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 94,
+    "kind": "file",
+    "name": "src/utils/data.js",
+    "content": "const identity = str => str\n\n/**\n * Creates a param string from a flat key-value pair.\n *\n * @param {Object} params\n * @param {String} [delimiter = ';']\n * @param {Function} [transformFn = identity] - transformation function to be\n * applied to each param. If omitted, no transform occurs\n * @returns {String}\n */\nexport const toParamString = (params, delimiter = ';', transformFn = identity) => {\n  const paramString = []\n\n  for (let key in params) {\n    if (params.hasOwnProperty(key) && params[key] !== undefined) {\n      paramString.push(`${key}=${transformFn(params[key])}`)\n    }\n  }\n\n  return paramString.join(delimiter)\n}\n\n/**\n * Creates a query string from a flat key-value pair.\n *\n * @param {Object} params\n * @returns {String}\n */\nexport const toQueryString = params => toParamString(params, '&', encodeURIComponent)\n\n/**\n * Creates an ICS param string from a flat key-value pair.\n *\n * @param {Object} params\n * @returns {String}\n */\nexport const toIcsParamString = params => toParamString(params, ';')\n",
+    "static": true,
+    "longname": "/home/travis/build/jshor/datebook/src/utils/data.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 95,
+    "kind": "function",
+    "name": "identity",
+    "memberof": "src/utils/data.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/utils/data.js~identity",
+    "access": "public",
+    "export": false,
+    "importPath": "datebook/src/utils/data.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "str",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null,
+    "ignore": true
+  },
+  {
+    "__docId__": 96,
+    "kind": "function",
+    "name": "toParamString",
+    "memberof": "src/utils/data.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/utils/data.js~toParamString",
+    "access": "public",
+    "export": true,
+    "importPath": "datebook/src/utils/data.js",
+    "importStyle": "{toParamString}",
+    "description": "Creates a param string from a flat key-value pair.",
+    "lineNumber": 12,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{String}"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "params",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": true,
+        "defaultValue": " ';'",
+        "defaultRaw": " ';'",
+        "name": "delimiter",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Function"
+        ],
+        "spread": false,
+        "optional": true,
+        "defaultValue": " identity",
+        "defaultRaw": " identity",
+        "name": "transformFn",
+        "description": "transformation function to be\napplied to each param. If omitted, no transform occurs"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "String"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 97,
+    "kind": "function",
+    "name": "toQueryString",
+    "memberof": "src/utils/data.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/utils/data.js~toQueryString",
+    "access": "public",
+    "export": true,
+    "importPath": "datebook/src/utils/data.js",
+    "importStyle": "{toQueryString}",
+    "description": "Creates a query string from a flat key-value pair.",
+    "lineNumber": 30,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{String}"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "params",
+        "description": ""
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "String"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 98,
+    "kind": "function",
+    "name": "toIcsParamString",
+    "memberof": "src/utils/data.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/utils/data.js~toIcsParamString",
+    "access": "public",
+    "export": true,
+    "importPath": "datebook/src/utils/data.js",
+    "importStyle": "{toIcsParamString}",
+    "description": "Creates an ICS param string from a flat key-value pair.",
+    "lineNumber": 38,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{String}"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "params",
+        "description": ""
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "String"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 99,
+    "kind": "file",
+    "name": "src/utils/ics.js",
+    "content": "import FileSaver from 'file-saver'\nimport { toIcsParamString } from './data'\nimport { formatTimestampString } from './time'\nimport safariFileSave from './safariFileSave'\n\n/**\n * Removes line breaks and ensures that the string is no\n * longer than maxLength chars (or 75 chars if none specified).\n *\n * @param {String} str - string to sanitize\n * @returns {String}\n */\nexport const formatText = (str) => {\n  if (!str) {\n    return ''\n  }\n  \n  return str.replace(/\\n/g, '\\\\n')\n}\n\n/**\n * The name of the file will be the event title with alphanumeric chars with the extension `.ics`.\n *\n * @param {String} icsData\n * @returns {Blob}\n */\nexport const getBlob = (icsData) => {\n  return new Blob([icsData], {\n    type: 'application/octet-stream' // TODO: change to text/calendar?\n  })\n}\n\n/**\n * Transforms given string to be valid file name.\n *\n * @param {String} title\n * @returns {String}\n */\nexport const getFileName = (title) => {\n  if (!title) {\n    return 'event.ics'\n  }\n  return `${title.replace(/[^\\w ]/g, '')}.ics`\n}\n\n/**\n * Returns a random base 36 hash for iCal UID.\n *\n * @returns {String}\n */\nexport const getUid = () => {\n  return Math.random().toString(36).substr(2)\n}\n\n/**\n * Returns the hostname for usage in `PRODID`. Returns `datebook` in Node.js.\n *\n * @returns {String}\n */\nexport const getProdId = () => {\n  return typeof window !== 'undefined'\n    ? window.location.host\n    : 'datebook'\n}\n\n/**\n * Converts the given recurrence options to RFC????\n *\n * @param {*} recurrence\n */\nexport const getRrule = (recurrence) => {\n  const keys = {\n    FREQ: 'frequency',\n    INTERVAL: 'interval',\n    COUNT: 'count',\n    WKST: 'weekStart',\n    BYDAY: 'weekdays',\n    BYMONTHDAY: 'monthdays'\n  }\n\n  // map all user-defined keys onto the rrule object\n  const rrule = Object\n    .keys(keys)\n    .filter((k) => recurrence.hasOwnProperty(keys[k]))\n    .reduce((values, key) => {\n      return Object.assign({}, values, {\n        [key]: recurrence[keys[key]]\n      })\n    }, {})\n\n  if (recurrence.end) {\n    rrule.UNTIL = formatTimestampString(new Date(recurrence.end), 'YYYYMMDDThhmmss')\n  }\n\n  return toIcsParamString(rrule)\n}\n\n/**\n * Downloads the given ics as an iCalendar file.\n *\n * @param {String} title - title of the event\n * @param {String} data - ics data\n */\nexport const download = (title, data) => {\n  const fileName = getFileName(title)\n  const isSafari = ~navigator\n    .userAgent\n    .toLowerCase()\n    .indexOf('safari')\n\n  if (isSafari) {\n    safariFileSave(data, fileName)\n  } else {\n    FileSaver.saveAs(getBlob(data), fileName)\n  }\n}",
+    "static": true,
+    "longname": "/home/travis/build/jshor/datebook/src/utils/ics.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 100,
+    "kind": "function",
+    "name": "formatText",
+    "memberof": "src/utils/ics.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/utils/ics.js~formatText",
+    "access": "public",
+    "export": true,
+    "importPath": "datebook/src/utils/ics.js",
+    "importStyle": "{formatText}",
+    "description": "Removes line breaks and ensures that the string is no\nlonger than maxLength chars (or 75 chars if none specified).",
+    "lineNumber": 13,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{String}"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "str",
+        "description": "string to sanitize"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "String"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 101,
+    "kind": "function",
+    "name": "getBlob",
+    "memberof": "src/utils/ics.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/utils/ics.js~getBlob",
+    "access": "public",
+    "export": true,
+    "importPath": "datebook/src/utils/ics.js",
+    "importStyle": "{getBlob}",
+    "description": "The name of the file will be the event title with alphanumeric chars with the extension `.ics`.",
+    "lineNumber": 27,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{Blob}"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "icsData",
+        "description": ""
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Blob"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 102,
+    "kind": "function",
+    "name": "getFileName",
+    "memberof": "src/utils/ics.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/utils/ics.js~getFileName",
+    "access": "public",
+    "export": true,
+    "importPath": "datebook/src/utils/ics.js",
+    "importStyle": "{getFileName}",
+    "description": "Transforms given string to be valid file name.",
+    "lineNumber": 39,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{String}"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "title",
+        "description": ""
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "String"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 103,
+    "kind": "function",
+    "name": "getUid",
+    "memberof": "src/utils/ics.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/utils/ics.js~getUid",
+    "access": "public",
+    "export": true,
+    "importPath": "datebook/src/utils/ics.js",
+    "importStyle": "{getUid}",
+    "description": "Returns a random base 36 hash for iCal UID.",
+    "lineNumber": 51,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{String}"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "String"
+      ],
+      "spread": false,
+      "description": ""
+    },
+    "params": []
+  },
+  {
+    "__docId__": 104,
+    "kind": "function",
+    "name": "getProdId",
+    "memberof": "src/utils/ics.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/utils/ics.js~getProdId",
+    "access": "public",
+    "export": true,
+    "importPath": "datebook/src/utils/ics.js",
+    "importStyle": "{getProdId}",
+    "description": "Returns the hostname for usage in `PRODID`. Returns `datebook` in Node.js.",
+    "lineNumber": 60,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{String}"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "String"
+      ],
+      "spread": false,
+      "description": ""
+    },
+    "params": []
+  },
+  {
+    "__docId__": 105,
+    "kind": "function",
+    "name": "getRrule",
+    "memberof": "src/utils/ics.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/utils/ics.js~getRrule",
+    "access": "public",
+    "export": true,
+    "importPath": "datebook/src/utils/ics.js",
+    "importStyle": "{getRrule}",
+    "description": "Converts the given recurrence options to RFC????",
+    "lineNumber": 71,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "*"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "recurrence",
+        "description": ""
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 106,
+    "kind": "function",
+    "name": "download",
+    "memberof": "src/utils/ics.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/utils/ics.js~download",
+    "access": "public",
+    "export": true,
+    "importPath": "datebook/src/utils/ics.js",
+    "importStyle": "{download}",
+    "description": "Downloads the given ics as an iCalendar file.",
+    "lineNumber": 104,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "title",
+        "description": "title of the event"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "data",
+        "description": "ics data"
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 107,
+    "kind": "file",
+    "name": "src/utils/safariFileSave.js",
+    "content": "/**\n * Downloads the given ics. Meant to be used only for Safari.\n *\n * @param {String} data - ics data\n * @param {String} fileName - file name to save, ending in .ics\n */\nconst safariFileSave = (data, fileName) => {\n  const anchor = document.createElement('a')\n  const encodedData = encodeURIComponent(data)\n\n  anchor.setAttribute('href', `data:text/calendar;charset=utf-8,${encodedData}`)\n  anchor.setAttribute('download', fileName)\n\n  if (document.createEvent) {\n    const event = document.createEvent('MouseEvents')\n\n    event.initEvent('click', true, true)\n    anchor.dispatchEvent(event)\n  } else {\n    anchor.click()\n  }\n}\n\nexport default safariFileSave\n",
+    "static": true,
+    "longname": "/home/travis/build/jshor/datebook/src/utils/safariFileSave.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 108,
+    "kind": "function",
+    "name": "safariFileSave",
+    "memberof": "src/utils/safariFileSave.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/utils/safariFileSave.js~safariFileSave",
+    "access": "public",
+    "export": true,
+    "importPath": "datebook/src/utils/safariFileSave.js",
+    "importStyle": "safariFileSave",
+    "description": "Downloads the given ics. Meant to be used only for Safari.",
+    "lineNumber": 7,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "data",
+        "description": "ics data"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "fileName",
+        "description": "file name to save, ending in .ics"
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 109,
+    "kind": "file",
+    "name": "src/utils/time.js",
+    "content": "import { FORMAT } from '../constants'\n\n/**\n * Adds a leading zero to a single-digit string and returns a two-digit string.\n * \n * @param {String} s\n * @returns {String}\n */\nexport const addLeadingZero = (s) => {\n  return `0${parseInt(s, 10)}`.slice(-2)\n}\n\n/**\n * Formats the given JS Date() object to the given format.\n * Format defaults to: YYYYMMDDTHHMMss\n * \n * @param {Date} d\n * @param {String} format\n * @returns {String}\n */\nexport const formatTimestampDate = (d, format) => {\n  const dateValues = {\n    YYYY: d.getFullYear(),\n    MM: addLeadingZero(d.getMonth() + 1),\n    DD: addLeadingZero(d.getDate()),\n    hh: addLeadingZero(d.getHours()),\n    mm: addLeadingZero(d.getMinutes()),\n    ss: addLeadingZero(d.getSeconds()),\n  }\n\n  return Object\n    .keys(dateValues)\n    .reduce((date, key) => {\n      return date.replace(key, dateValues[key])\n    }, format)\n}\n\n/**\n * Parses the given string as a JS Date() object.\n * \n * @param {String} str\n * @returns {Date}\n */\nexport const parseDate = (str) => { // TODO: check if `time` is valid date\n  return new Date(str)\n}\n\n/**\n * Formats the given timestamp.\n *\n * @param {String} time\n * @param {String} format - momentjs format\n * @returns {String}\n */\nexport const formatTimestampString = (str, format) => {\n  return formatTimestampDate(parseDate(str), format)\n}\n\n/**\n * Returns the current timestamp.\n *\n * @returns {String}\n */\nexport const getTimeCreated = () => {\n  return formatTimestampDate(new Date(), FORMAT.DATE)\n}\n",
+    "static": true,
+    "longname": "/home/travis/build/jshor/datebook/src/utils/time.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 110,
+    "kind": "function",
+    "name": "addLeadingZero",
+    "memberof": "src/utils/time.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/utils/time.js~addLeadingZero",
+    "access": "public",
+    "export": true,
+    "importPath": "datebook/src/utils/time.js",
+    "importStyle": "{addLeadingZero}",
+    "description": "Adds a leading zero to a single-digit string and returns a two-digit string.",
+    "lineNumber": 9,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{String}"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "s",
+        "description": ""
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "String"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 111,
+    "kind": "function",
+    "name": "formatTimestampDate",
+    "memberof": "src/utils/time.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/utils/time.js~formatTimestampDate",
+    "access": "public",
+    "export": true,
+    "importPath": "datebook/src/utils/time.js",
+    "importStyle": "{formatTimestampDate}",
+    "description": "Formats the given JS Date() object to the given format.\nFormat defaults to: YYYYMMDDTHHMMss",
+    "lineNumber": 21,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{String}"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Date"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "d",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "format",
+        "description": ""
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "String"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 112,
+    "kind": "function",
+    "name": "parseDate",
+    "memberof": "src/utils/time.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/utils/time.js~parseDate",
+    "access": "public",
+    "export": true,
+    "importPath": "datebook/src/utils/time.js",
+    "importStyle": "{parseDate}",
+    "description": "Parses the given string as a JS Date() object.",
+    "lineNumber": 44,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{Date}"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "str",
+        "description": ""
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Date"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 113,
+    "kind": "function",
+    "name": "formatTimestampString",
+    "memberof": "src/utils/time.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/utils/time.js~formatTimestampString",
+    "access": "public",
+    "export": true,
+    "importPath": "datebook/src/utils/time.js",
+    "importStyle": "{formatTimestampString}",
+    "description": "Formats the given timestamp.",
+    "lineNumber": 55,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{String}"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "time",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "format",
+        "description": "momentjs format"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "String"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 114,
+    "kind": "function",
+    "name": "getTimeCreated",
+    "memberof": "src/utils/time.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/utils/time.js~getTimeCreated",
+    "access": "public",
+    "export": true,
+    "importPath": "datebook/src/utils/time.js",
+    "importStyle": "{getTimeCreated}",
+    "description": "Returns the current timestamp.",
+    "lineNumber": 64,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{String}"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "String"
+      ],
+      "spread": false,
+      "description": ""
+    },
+    "params": []
+  },
+  {
+    "kind": "index",
+    "content": "<p align=\"center\">\n  <a href=\"https://jshor.github.io/datebook/\">\n    <img src=\"https://raw.githubusercontent.com/jshor/datebook/master/manual/assets/logo.png\" width=\"450\" height=\"100\" />\n  </a>\n</p>\n\n<p align=\"center\">A library for adding events to popular calendar apps.</p>\n\n<p align=\"center\">It supports .ics files for iCalendar and Office Outlook, and also supports Google Calendar, Yahoo! Calendar and Outlook Online.</p>\n\n<br>\n\n<p align=\"center\">\n  <a href=\"https://codecov.io/gh/jshor/datebook\"><img\n    src=\"https://img.shields.io/codecov/c/github/jshor/datebook.svg?style=for-the-badge\"\n    alt=\"Code coverage\"\n  /></a> <a href=\"https://travis-ci.org/jshor/datebook\"><img\n    src=\"https://img.shields.io/travis/jshor/datebook.svg?style=for-the-badge\"\n    alt=\"Build status\"\n  /></a> <a href=\"https://david-dm.org/jshor/datebook#info=dependencies\"><img\n    src=\"https://img.shields.io/david/jshor/datebook.svg?style=for-the-badge\"\n    alt=\"Dependency Status\"\n  /></a> <a href=\"https://npmjs.com/package/datebook\"><img\n    src=\"http://img.shields.io/npm/v/datebook.svg?style=for-the-badge\"\n    alt=\"npm version\"\n  /></a> <a href=\"https://bundlephobia.com/result?p=datebook\"><img\n    src=\"https://img.shields.io/bundlephobia/min/datebook?style=for-the-badge\"\n    alt=\"npm package size\"\n  /></a>\n</p>\n\n<br>\n\n## Documentation\n\nSee the [full documentation here](https://jshor.github.io/datebook/)\n\n## Quick Start\n\n### Installation\n\n```sh\nyarn add datebook\n```\n\n### Example Usage\n\n```js\nimport { ICalendar } from 'datebook'\n\nconst icalendar = new ICalendar({\n  title: 'Happy Hour',\n  location: 'The Bar, New York, NY',\n  description: 'Let\\'s blow off some steam from our weekly deployments to enjoy a tall cold one!',\n  start: '2020-07-04T19:00:00',\n  end: '2020-07-04T23:30:00',\n  recurrence: {\n    frequency: 'WEEKLY',\n    interval: 2\n  }\n})\n\nicalendar.download()\n```\n\n## Available Classes\n\n* [`YahooCalendar`](https://jshor.github.io/datebook/class/src/YahooCalendar.js~YahooCalendar.html)\n* [`GoogleCalendar`](https://jshor.github.io/datebook/class/src/GoogleCalendar.js~GoogleCalendar.html)\n* [`ICalendar`](https://jshor.github.io/datebook/class/src/ICalendar.js~ICalendar.html)\n* [`OutlookCalendar`](https://jshor.github.io/datebook/class/src/OutlookCalendar.js~OutlookCalendar.html)\n* [`CalendarBase`](https://jshor.github.io/datebook/class/src/CalendarBase.js~CalendarBase.html) (for creating new services)\n\n## Browser Support\n\nThe latest versions of all major browsers are supported.\n\n| <img src=\"https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_128x128.png?raw=true\" width=\"48px\" height=\"48px\" alt=\"Chrome logo\"> | <img src=\"https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_128x128.png?raw=true\" width=\"48px\" height=\"48px\" alt=\"Firefox logo\"> | <img src=\"https://raw.githubusercontent.com/alrra/browser-logos/master/src/archive/internet-explorer_9-11/internet-explorer_9-11_128x128.png\" width=\"48px\" height=\"48px\" alt=\"Internet Explorer logo\"> | <img src=\"https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_128x128.png\" width=\"48px\" height=\"48px\" alt=\"Edge Browser Logo\" > | <img src=\"https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_128x128.png?raw=true\" width=\"48px\" height=\"48px\" alt=\"Opera logo\"> | <img src=\"https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_128x128.png?raw=true\" width=\"48px\" height=\"48px\" alt=\"Safari logo\">\n|:---:|:---:|:---:|:---:|:---:|:---:|\n| Yes ✅ | 20+ ✅ | 10+ ✅ | Yes ✅ | 15+ ✅ | 10.1+ ✅\n",
+    "longname": "/home/travis/build/jshor/datebook/README.md",
+    "name": "./README.md",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "packageJSON",
+    "content": "{\n  \"name\": \"datebook\",\n  \"version\": \"4.1.1\",\n  \"description\": \"Generates URLs and downloads ICS files for adding events to popular calendar apps.\",\n  \"scripts\": {\n    \"build\": \"webpack\",\n    \"build:analyze\": \"webpack --analyze\",\n    \"test\": \"jest\",\n    \"docs\": \"esdoc\",\n    \"commit\": \"yarn git-cz\",\n    \"commitmsg\": \"commitlint -e $GIT_PARAMS\",\n    \"release\": \"standard-version -n\"\n  },\n  \"main\": \"dist/datebook.js\",\n  \"repository\": {\n    \"type\": \"git\",\n    \"url\": \"https://github.com/jshor/datebook\"\n  },\n  \"keywords\": [\n    \"icalendar\",\n    \"google calendar\",\n    \"ics\",\n    \"yahoo calendar\",\n    \"outlook\",\n    \"calendar\",\n    \"event\"\n  ],\n  \"author\": \"Josh Shor <jpshor@gmail.com>\",\n  \"license\": \"MIT\",\n  \"bugs\": {\n    \"url\": \"https://github.com/jshor/datebook/issues\"\n  },\n  \"homepage\": \"https://github.com/jshor/datebook\",\n  \"dependencies\": {\n    \"file-saver\": \"^2.0.2\"\n  },\n  \"devDependencies\": {\n    \"@babel/core\": \"^7.3.4\",\n    \"@babel/preset-env\": \"^7.3.4\",\n    \"@commitlint/cli\": \"^8.0.0\",\n    \"@commitlint/config-conventional\": \"^8.0.0\",\n    \"autoprefixer\": \"^6.0.3\",\n    \"babel-jest\": \"^24.4.0\",\n    \"babel-loader\": \"^8.0.5\",\n    \"babel-minify-webpack-plugin\": \"^0.3.1\",\n    \"codecov\": \"^3.5.0\",\n    \"commitizen\": \"^3.1.1\",\n    \"esdoc\": \"^1.1.0\",\n    \"esdoc-standard-plugin\": \"^1.0.0\",\n    \"husky\": \"^2.4.0\",\n    \"jest\": \"^24.1.0\",\n    \"jest-mock-random\": \"^1.0.2\",\n    \"moment\": \"^2.24.0\",\n    \"parcel-bundler\": \"^1.12.3\",\n    \"standard-version\": \"^6.0.1\",\n    \"webpack\": \"^4.41.5\",\n    \"webpack-bundle-analyzer\": \"^3.7.0\",\n    \"webpack-cli\": \"^3.3.10\"\n  },\n  \"gitHooks\": {\n    \"pre-push\": \"yarn test\"\n  },\n  \"config\": {\n    \"commitizen\": {\n      \"path\": \"./node_modules/cz-conventional-changelog\"\n    }\n  }\n}\n",
+    "longname": "/home/travis/build/jshor/datebook/package.json",
+    "name": "package.json",
+    "static": true,
+    "access": "public"
+  }
+]
