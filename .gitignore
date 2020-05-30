@@ -6,5 +6,4 @@ dist
 npm-debug.log
 yarn-error.log
 *.sw*
-docs
 .DS_Store
