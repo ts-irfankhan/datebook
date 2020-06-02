@@ -1,4 +1,4 @@
-import FileSaver from 'file-saver'
+// import FileSaver from 'file-saver'
 import { toIcsParamString } from './data'
 import { formatTimestampString } from './time'
 import safariFileSave from './safariFileSave'
@@ -111,6 +111,6 @@ export const download = (title, data) => {
   if (isSafari) {
     safariFileSave(data, fileName)
   } else {
-    FileSaver.saveAs(getBlob(data), fileName)
+//     FileSaver.saveAs(getBlob(data), fileName)
   }
 }
